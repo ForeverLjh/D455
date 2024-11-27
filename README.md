@@ -7,9 +7,11 @@ ubuntu18.04+D455 三维重建
    Ubuntu终端运行下面指令，根据选项安装ros1
    
     wget http://fishros.com/install -O fishros && . fishros
+   
 2）安装后验证依次打开三个终端 分别输入以下命令
 
     roscore	
+    
     终端完成后 会显示 [/rosout]
    
     rosrun turtlesim turtlesim_node
@@ -27,6 +29,11 @@ ubuntu18.04+D455 三维重建
    选 4 一键配置
    
 3）安装完ROS后，新建ROS工作空间，打开终端运行
+
+
+
+
+
   
 cd ~/catkin_ws/src
 
