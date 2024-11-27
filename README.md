@@ -1,4 +1,4 @@
-# D455
+[ROS_D455.txt](https://github.com/user-attachments/files/17933396/ROS_D455.txt)# D455
 ubuntu18.04+D455 三维重建
 
 必要的）ubuntu系统，我运用的是虚拟机安装ubuntu18.04，其次inteal深度相机D400系列，我用的Intel Realsense D455
@@ -17,3 +17,8 @@ ubuntu18.04+D455 三维重建
    选 4 一键配置
 3）安装完ROS后，新建ROS工作空间，打开终端运行
   
+[Uploading cd ~/catkin_ws/src
+
+查看数据
+rtabmap -d ~/.ros/rtabmap.db
+ROS_D455.txt…]()
