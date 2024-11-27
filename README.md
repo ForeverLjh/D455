@@ -12,17 +12,17 @@ ubuntu18.04+D455 三维重建
 
     roscore	
     
-    终端完成后 会显示 [/rosout]
+终端完成后 会显示 [/rosout]
    
     rosrun turtlesim turtlesim_node
    
-   会打开一个蓝色屏幕的小乌龟在中间
+会打开一个蓝色屏幕的小乌龟在中间
    
     rosrun turtlesim  turtle_teleop_key
    
-   鼠标要在第三个终端，可以通过按下键盘的 ↑ ↓ ← →键来对小海龟进行控制
+鼠标要在第三个终端，可以通过按下键盘的 ↑ ↓ ← →键来对小海龟进行控制
    
-  安装成功，配置环境变量，打开终端，运行
+安装成功，配置环境变量，打开终端，运行
   
     wget http://fishros.com/install -O fishros && . fishros
     
