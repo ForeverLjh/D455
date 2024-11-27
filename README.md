@@ -3,12 +3,13 @@ ubuntu18.04+D455 三维重建
 
 必要的）ubuntu系统，我运用的是虚拟机安装ubuntu18.04，其次inteal深度相机D400系列，我用的Intel Realsense D455
 1) 在Ubuntu上安装ROS1，这里推荐鱼香ROS一键安装
+
    Ubuntu终端运行下面指令，根据选项安装ros1
+   
     wget http://fishros.com/install -O fishros && . fishros
 2）安装后验证依次打开三个终端 分别输入以下命令
 
-    roscore
-   
+    roscore	
     终端完成后 会显示 [/rosout]
    
     rosrun turtlesim turtlesim_node
