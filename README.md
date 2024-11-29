@@ -31,4 +31,4 @@ ubuntu18.04+D455 三维重建
 
 
 
-LinkedIn  Michigan Technological University https://www.linkedin.com/posts/nathir-rawashdeh-b6019428_we-were-able-to-map-the-nucor-corporation-activity-7141588559219613696-ljjI
+Michigan Technological University https://www.linkedin.com/posts/nathir-rawashdeh-b6019428_we-were-able-to-map-the-nucor-corporation-activity-7141588559219613696-ljjI
