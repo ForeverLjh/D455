@@ -26,11 +26,38 @@
    
 3）安装完ROS后，新建ROS工作空间，打开终端运行
 
+[1]创建并初始化一个新的工作空间catkin_ws
+   mkdir -p ~/catkin_ws/src   
+
+   cd ~/catkin_ws/src
+
+   catkin_init_workspace
+
+命令把当前目录初始化为一个ROS工作空间
+
+[2]编译该工作空间。
+   cd ~/catkin_ws
+
+   catkin_make
+
+[3]定义catkin_ws空间所需要的环境变量。执行此命令后，ros的相关命令（如roscd等）可以找到此工作空间中的package。
+source ~/catkin_ws/devel/setup.bash
+
+[4]验证ROS工作空间的环境变量加载成功：
+
+   echo $ROS_PACKAGE_PATH
+
+[5]打开环境变量文件sudo gedit .bashrc 加入下面一行：
+
+   source ~/catkin_ws/devel/setup.bash
+
+运行
+source ~/.bashrc
 
 
 
 
-  
+
 cd ~/catkin_ws/src
 
 查看数据
