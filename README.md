@@ -5,5 +5,8 @@ ubuntu18.04+D455 三维重建
 
 具体实现步骤：
 
-   （1）Ubuntu安装ROS，具体步骤看 [安装ROS]
-    (2) 
+      （1）Ubuntu安装ROS，具体步骤看 [安装ROS]
+   
+       (2) 安装 Intel Realsense 的ROS包
+
+      （3） 
