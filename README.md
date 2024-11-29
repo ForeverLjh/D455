@@ -1,4 +1,4 @@
-[ROS_D455.txt](https://github.com/user-attachments/files/17933396/ROS_D455.txt)# D455
+# D455
 ubuntu18.04+D455 三维重建
 
 必要的）ubuntu系统，我运用的是虚拟机安装ubuntu18.04，其次Intel深度相机D400系列，我用的Intel Realsense D455
